@@ -9,7 +9,7 @@ function App() {
         className = "App-logo"
         alt = "logo" />
         <p >
-        Edit hiii
+        Edit hiii hello
          <code> src / App.js </code>
           and save to reload. </p>
         </header>
